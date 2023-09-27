@@ -1,0 +1,42 @@
+.gradient-text-something {
+  background: linear-gradient(128deg, var(--bs-code-color) 0%, var(--bs-indigo) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 42px;
+}
+
+.gradient-text-green {
+  background: linear-gradient(-154deg, #28b166, #1a8cff 87%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.gradient-text-landing {
+  background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.gradient-text {
+  background: linear-gradient(45deg, #ff5e5e, #4949ff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.lottie-back {
+  position: relative;
+  overflow: hidden;
+  padding: 7vw;
+}
+
+.lottie-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  pointer-events: none;
+  background: transparent;
+}
+
