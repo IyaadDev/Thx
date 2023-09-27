@@ -1,8 +1,10 @@
 # Thx
 Thx is the **best way** to say Thank You 💖
 
+<code>
 // To be recreated in School Tool
 // Was originally planned to use Power Automate Web Hooks
+</code>
 ## What is Thx?
 Have you ever wanted to drop in **a quick Thank-You** but **aren't sure** how to make it as **quick** and **easy** as possible?
 
